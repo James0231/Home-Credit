@@ -5,6 +5,7 @@ bureau的部分特征做数据预处理，主要采用了groupby技术和one-hot
 并删除特征重要性较低的变量。两个py文件就是我写的数据预处理部分。三张表特征重要性图l里面的ipynb文件就是我根据三张表处理完的数据利用xgboost，random forest和adaboost
 三种模型来寻找不重要变量的代码。并且将不重要的变量去除。
 
-最终取得的成绩在7198支队伍中排313名：
+最终取得的成绩在7198支队伍中排313名(前5%)：
+![Image text](https://github.com/James0231/Home-Credit/blob/master/img_folder/%E6%88%90%E7%BB%A9.png)
 
 
