@@ -7,4 +7,4 @@ bureau的部分特征做数据预处理，主要采用了groupby技术和one-hot
 
 ![Image text](https://github.com/James0231/Home-Credit/blob/master/img_folder/%E6%88%90%E7%BB%A9.png)
 
-
+最后感谢刘栋同学，马川同学，杨莎莎同学和赵建宇同学。
